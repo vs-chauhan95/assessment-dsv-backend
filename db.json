@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "firstName": "Vikrant",
+      "lastName": "Singh",
+      "email": "vikrant.s@gmail.com",
+      "phoneNumber": "9299929299",
+      "id": 1
+    }
+  ],
+  "credentials": [
+    {
+      "password": "welcome123"
+    }
+  ]
+}
