@@ -1,4 +1,9 @@
 {
+  "credentials": [
+    {
+      "password": "welcome123"
+    }
+  ],
   "users": [
     {
       "firstName": "Vikrant",
@@ -6,11 +11,6 @@
       "email": "vikrant.s@gmail.com",
       "phoneNumber": "9299929299",
       "id": 1
-    }
-  ],
-  "credentials": [
-    {
-      "password": "welcome123"
     }
   ]
 }
